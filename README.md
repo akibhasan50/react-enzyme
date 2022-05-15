@@ -2,7 +2,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/react-quiz">React  Quiz Application with Firebase</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/react-quiz">Testing React  Application with jest and enzyme</a></h3>
 
 
 <!-- TABLE OF CONTENTS -->
